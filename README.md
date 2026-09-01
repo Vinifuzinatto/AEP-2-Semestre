@@ -34,7 +34,7 @@ Dessa forma, o sistema busca centralizar as informações e auxiliar os respons�
 
 A documentação referente ao desenvolvimento do projeto está disponível na pasta:
 
-`(https://drive.google.com/drive/folders/1GlbhSfpVkZUMRJK3gPX4WXxVtiyv1R5z?usp=sharing)`
+`https://drive.google.com/drive/folders/1GlbhSfpVkZUMRJK3gPX4WXxVtiyv1R5z?usp=sharing`
 
 Nessa pasta serão armazenados documentos relacionados ao levantamento de requisitos, planejamento, diagramas, protótipos e demais materiais produzidos durante o desenvolvimento do sistema.
 
