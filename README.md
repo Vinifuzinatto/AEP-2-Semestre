@@ -28,7 +28,7 @@ Dessa forma, o sistema busca centralizar as informações e auxiliar os respons�
 
 - Nome: KAUAN BORIN ROLIM DE MOURA - RA 26004945-2
 - Nome: MARCO ANTONIO LOBATO DE SOUSA - RA 26005468-2
-- Nome completo: VINÍCIUS DOS SANTOS FUZINATTO - RA 26006172-2
+- Nome: VINÍCIUS DOS SANTOS FUZINATTO - RA 26006172-2
 
 ## Documentação
 
