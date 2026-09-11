@@ -26,7 +26,3 @@ A documentação referente ao desenvolvimento do projeto está disponível no se
 DRIVE: [Clique aqui](https://drive.google.com/drive/folders/1GlbhSfpVkZUMRJK3gPX4WXxVtiyv1R5z?usp=sharing)
 
 TRELLO: [Clique aqui](https://trello.com/invite/b/6a8d97bc8d03dfebb42621bc/ATTIa0eb9b6ae6a8579329a7d48c95babe86A7E9F417/aep-2-2026-esoft-2-m-a)
-
-## Status do projeto
-
-Em desenvolvimento.
