@@ -3,7 +3,30 @@
 #include <locale.h>
 
 void cad_acoes() {
+	int op;
 	
+	do{
+		printf("\n==========CADASTRAR A√á√ÉO========== \n");
+		printf("1- \n");
+		printf("0- Sair \n");
+		
+		printf("\nEscolha a op√ß√£o: ");
+		scanf("%d", &op);
+		
+		switch(op) {
+			case 1:
+				printf("\nbla bla bla \n");
+				break;
+			
+			case 0:
+				printf("\nSaindo... \n\n");
+				break;
+			
+			default:
+				printf("\nOpc√£o inv√°lida! Tente novamente! \n");
+				
+		}
+	} while(op != 0);
 }
 
 void list_acoes_cad() {
@@ -28,43 +51,44 @@ int main() {
 	int op;
 	
 	do {
-		printf("MENU DE A«’ES! \n\n");
+		printf("MENU DE A√á√ïES! \n\n");
 		
-		printf("1- Cadastrar aÁıes \n");
-		printf("2- Listar aÁıes cadastradas \n");
-		printf("3- Pesquisar aÁıes \n");
-		printf("4- Atualizar situaÁ„o de uma aÁ„o \n");
+		printf("1- Cadastrar a√ß√µes \n");
+		printf("2- Listar a√ß√µes cadastradas \n");
+		printf("3- Pesquisar a√ß√µes \n");
+		printf("4- Atualizar situa√ß√£o de uma a√ß√£o \n");
 		printf("5- Gerar resumo geral \n");
 		printf("6- Finalizar! \n");
 		
-		printf("\nEscolha a opÁ„o: ");
+		printf("\nEscolha a op√ß√£o: ");
 		scanf("%d", &op);
 		
 		switch(op) {
 			
 			case 1:
 				cad_acoes();
+				break;
 				
 			case 2:
 				list_acoes_cad();
+				break;
 				
 			case 3:
 				pesq_acoes();
+				break;
 				
 			case 4:
 				atualizar_acoes();
+				break;
 					
 			case 5:
 				resumo();
+				break;
 				
 			default:
-				printf("\nOpc„o inv·lida! Tente novamente!");
+				printf("\nOpc√£o inv√°lida! Tente novamente! \n\n");
 		}
-		
-		
 	}while(op != 6);
-	
-	
-	
+
 	return 0;
 }
