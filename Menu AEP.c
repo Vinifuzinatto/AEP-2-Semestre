@@ -284,7 +284,6 @@ void resumo() {
     if (op == 2) atividades_por_data();
 }
 
-
 int main() {
     int op;
     
