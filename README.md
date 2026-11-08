@@ -31,7 +31,7 @@ TRELLO: [Clique aqui](https://trello.com/invite/b/6a8d97bc8d03dfebb42621bc/ATTIa
 
 Sistema em linguagem C, executado no terminal, para cadastrar, listar, pesquisar e atualizar atividades do Programa Saúde na Escola (PSE), com foco em atividades físicas, e gerar relatórios coletivos de participação.
 
-> [!WARNING]
+> [!CUIDADO]
 > **Privacidade:** o sistema trabalha somente com dados fictícios e informações coletivas sobre as ações. Não cadastre nomes de alunos, prontuários, diagnósticos, condições clínicas ou qualquer outro dado pessoal ou de saúde.
 
 ## Sumário
